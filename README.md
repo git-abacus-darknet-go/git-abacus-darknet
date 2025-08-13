@@ -75,4 +75,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/img/sight.webp" alt="Abacus Login" style="max-width: 100%;"></a>  
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/img/glimpse.webp" alt="Abacus Register" style="max-width: 100%;"></a> 
 
-Update:  04 August
+
+
+Update:  13 August Link is now responsive and functioning
