@@ -77,4 +77,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  13 August Link is now responsive and functioning
+
+
+Update:  19 August
