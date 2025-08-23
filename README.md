@@ -79,4 +79,6 @@ Remember, always prioritize security when accessing darknet platforms. Use verif
 
 
 
-Update:  19 August
+
+
+Update:  08/23/2025 Fixed broken link, now live and functioning
